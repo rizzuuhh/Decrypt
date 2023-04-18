@@ -11,4 +11,6 @@ for letter in text:
     else:
         decrypt_text += letter
 # print ouptput
+print(f"Decrypted text: ")
+print(decrypt_text)
 
